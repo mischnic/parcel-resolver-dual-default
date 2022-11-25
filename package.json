@@ -1,0 +1,6 @@
+{
+	"dependencies": {
+		"parcel-resolver-dual-default": "link:./resolver",
+		"example-lib": "link:./example"
+	}
+}
